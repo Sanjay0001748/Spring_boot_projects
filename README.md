@@ -1,30 +1,4 @@
 # Spring_boot_projects
-post
-{
-   {
-    "id": "1",
-    "name": "sanjay",
-    "phone_no": "9611194682",
-    "adress": "mysore"
-}
-get
-{
-    "id": "1",
-    "name": "sanjay",
-    "phone_no": "9611194682",
-    "adress": "mysore"
-}
-put
-{
-    "id": "1",
-    "name": "sanjay kc",
-    "phone_no": "9611194682",
-    "adress": "yelwala mysore"
-}
-delete
-cloud vendor details deleted successfully 
-
-
 
 REST API Project with Spring Boot
 Overview
